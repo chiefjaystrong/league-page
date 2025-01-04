@@ -8,7 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Strong Burber League<p>
-  <p>Only the strongest shall win<p>
 `;
 
 /*   STEP 3   */
